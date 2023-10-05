@@ -9,10 +9,11 @@
 </div>
 
 <div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <div style="display: inline_block"><br>
+        <img align="left" height="250" alt="coding-time" src="./gifs/code.gif">
 </div>
-<div>    
+
+<div>  
     <h1 align="center">Socials</h1>
         <a href = "mailto: mtelles422@gmail.com">
           <img width="35" src="gmail.svg">
