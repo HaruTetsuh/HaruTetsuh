@@ -16,9 +16,9 @@
 <div>  
     <h1 align="center">Socials</h1>
         <a href = "mailto: mtelles422@gmail.com">
-          <img width="35" src="gmail.svg">
+          <img width="35" src="./svg/gmail.svg">
         </a>
         <a href = "https://www.linkedin.com/in/mtell-es/">
-          <img width="30" src="linkedin.svg">
+          <img width="30" src="./svg/linkedin.svg">
         </a>
 </div>
