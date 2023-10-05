@@ -10,7 +10,7 @@
 
 <div align="center"> 
     <div style="display: inline_block"><br>
-        <img align="left" height="250" alt="coding-time" src="./gifs/code.gif">
+        <img align="left" height="250" alt="coding-time" src="./gif/code.gif">
 </div>
 
 <div>  
