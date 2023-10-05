@@ -12,12 +12,12 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
 </div>
-    
-<h1 align="center">Socials</h1>
-    <a href = "mailto: mtelles422@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/mtell-es/">
-      <img width="25" src="linkedin.svg">
-    </a>
+<div>    
+    <h1 align="center">Socials</h1>
+        <a href = "mailto: mtelles422@gmail.com">
+          <img width="35" src="gmail.svg">
+        </a>
+        <a href = "https://www.linkedin.com/in/mtell-es/">
+          <img width="30" src="linkedin.svg">
+        </a>
 </div>
