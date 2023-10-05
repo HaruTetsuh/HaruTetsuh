@@ -21,5 +21,3 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
-
-![snake animation](https://github.com/harutetsuh/harutetsuh/blob/output/github-contribution-grid-snake2.svg)
