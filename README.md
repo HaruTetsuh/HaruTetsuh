@@ -22,4 +22,4 @@
     </a>
 </div>
 
-![Snake gif](https://github.com/harutetsuh/harutetsuh/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/harutetsuh/harutetsuh/blob/output/github-contribution-grid-snake2.svg)
