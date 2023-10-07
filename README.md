@@ -1,7 +1,7 @@
 ### Hi! I'm Matt 🖥️
 
 -  Computer Engineering Academic
--  Currently studying programming logic
+-  Currently studying web development and object-oriented programming
 -  Pronouns: He/Him
 
 <div>
