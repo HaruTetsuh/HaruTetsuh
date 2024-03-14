@@ -5,7 +5,7 @@
 ### Hi! I'm Matt 🖥️
 
 -  Computer Engineering Academic
--  Currently studying web development and object-oriented programming
+-  Currently studying mobile coding and database application
 -  Pronouns: He/Him
 
 <div>
