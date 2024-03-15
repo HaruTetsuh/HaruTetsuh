@@ -13,13 +13,14 @@
 </div>
 
 <div align="center"> 
-    <div style="display: inline_block"><br>
-        <img align="left" height="250" alt="coding-time" src="./gif/code.gif">
+    <div style="display: inline-block">
+        <img align="left" width="auto" height="250" alt="coding-time" src="./gif/code.gif">
+</div>
 </div>
 
-<div>  
+<div align="center">  
     <h1 align="center">Socials</h1>
-        <a href = "mailto: mtelles422@gmail.com">
+       <a href = "mailto: mtelles422@gmail.com">
           <img width="35" src="./svg/gmail.svg">
         </a>
         <a href = "https://www.linkedin.com/in/mtell-es/">
