@@ -4,7 +4,7 @@
 
 ### Hi! I'm Matt 🖥️
 
--  Computer Engineering Academic
+-  Systems Analysis and Development Academic
 -  Currently studying mobile coding and database application
 -  Pronouns: He/Him
 
