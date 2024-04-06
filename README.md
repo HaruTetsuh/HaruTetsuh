@@ -11,8 +11,10 @@
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harutetsuh&rank_icon=github&theme=dracula"/>
 </div>
-</div>
-
+ <div align="center"> 
+        <div style="display: inline-block">
+            <img align="left" width="auto" height="250" alt="coding-time" src="./gif/code.gif">
+        </div>
 <div align="center">  
     <h1 align="center">Socials</h1>
        <a href = "mailto: mtelles422@gmail.com">
