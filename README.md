@@ -30,22 +30,3 @@
     alt="GitHub Stats"
 />
 
-## 🌐 Socials
-
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center; margin-top: 20px;">
-    <!-- Social Icons -->
-    <a href="mailto:mtelles422@gmail.com" style="text-decoration: none; border: 2px solid #f5f5f5; padding: 10px; border-radius: 50%; transition: all 0.3s ease;">
-        <img 
-            src="./svg/gmail.svg" 
-            alt="Gmail" 
-            width="35"
-            style="border-radius: 50%; transition: transform 0.3s ease;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/mtell-es/" style="text-decoration: none; border: 2px solid #f5f5f5; padding: 10px; border-radius: 50%; transition: all 0.3s ease;">
-        <img 
-            src="./svg/linkedin.svg" 
-            alt="LinkedIn" 
-            width="35"
-            style="border-radius: 50%; transition: transform 0.3s ease;"/>
-    </a>
-</div>
