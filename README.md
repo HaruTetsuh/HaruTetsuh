@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
     <!-- Text Content -->
-    <div style="flex-grow: 1;">
+    <div style="flex-grow: 1; font-size: 18px;">
         <p><strong>Hi! I'm Matt 💻</strong></p>
         <p><strong>Academic:</strong> Systems Analysis and Development</p>
         <p><strong>Currently studying:</strong> Mobile coding and database application</p>
@@ -18,6 +18,7 @@
             style="border-radius: 10px; object-fit: cover;"
         />
     </div>
+</div>
 </div>
 
 ---
