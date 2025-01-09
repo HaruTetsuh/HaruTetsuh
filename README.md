@@ -1,27 +1,51 @@
-<div>
-    <h1>🌠About Me:</h1>
+# 👋 About Me
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <!-- Text Content -->
+    <div style="flex-grow: 1;">
+        <p><strong>Hi! I'm Matt 💻</strong></p>
+        <p><strong>Academic:</strong> Systems Analysis and Development</p>
+        <p><strong>Currently studying:</strong> Mobile coding and database application</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+    </div>
+    <!-- GIF -->
+    <div>
+        <img 
+            src="./gif/code.gif" 
+            alt="Coding GIF" 
+            width="250" 
+            height="250"
+            style="border-radius: 10px; object-fit: cover;"
+        />
+    </div>
 </div>
 
-### Hi! I'm Matt 🖥️
+---
 
--  Systems Analysis and Development Academic
--  Currently studying mobile coding and database application
--  Pronouns: He/Him
+## 📊 GitHub Stats
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harutetsuh&rank_icon=github&theme=dracula"/>
-</div>
- <div align="auto"> 
-        <div style="display: inline-block">
-            <img align="auto" width="auto" height="250" alt="coding-time" src="./gif/code.gif">
-        </div>
- </div>
-<div align="center">  
-    <h1 align="center">Socials</h1>
-       <a href = "mailto: mtelles422@gmail.com">
-          <img width="35" src="./svg/gmail.svg">
-        </a>
-        <a href = "https://www.linkedin.com/in/mtell-es/">
-          <img width="30" src="./svg/linkedin.svg">
-        </a>
+<img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=harutetsuh&rank_icon=github&theme=dracula" 
+    alt="GitHub Stats"
+/>
+
+## 🌐 Socials
+
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center; margin-top: 20px;">
+    <!-- Social Icons -->
+    <a href="mailto:mtelles422@gmail.com" style="text-decoration: none; border: 2px solid #f5f5f5; padding: 10px; border-radius: 50%; transition: all 0.3s ease;">
+        <img 
+            src="./svg/gmail.svg" 
+            alt="Gmail" 
+            width="35"
+            style="border-radius: 50%; transition: transform 0.3s ease;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mtell-es/" style="text-decoration: none; border: 2px solid #f5f5f5; padding: 10px; border-radius: 50%; transition: all 0.3s ease;">
+        <img 
+            src="./svg/linkedin.svg" 
+            alt="LinkedIn" 
+            width="35"
+            style="border-radius: 50%; transition: transform 0.3s ease;"/>
+    </a>
 </div>
